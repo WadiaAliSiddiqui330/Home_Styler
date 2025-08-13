@@ -1,0 +1,43 @@
+{
+  "designers": [
+    {
+      "id": "des001",
+      "name": "Sophia Reynolds",
+      "photoUrl": "https://images.pexels.com/photos/7709262/pexels-photo-7709262.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "experienceYears": 8,
+      "hourlyRate": 45,
+      "bio": "Expert in modern and sustainable designs with a focus on creating harmonious living spaces.",
+      "specialties": ["Contemporary", "Minimalist", "Sustainable Design"],
+      "contact": {
+        "email": "sophia@homestyler.com",
+        "phone": "+1234567890"
+      }
+    },
+    {
+      "id": "des002",
+      "name": "Marcus Chen",
+      "photoUrl": "https://images.pexels.com/photos/30004315/pexels-photo-30004315/free-photo-of-professional-headshot-of-smiling-businessman.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "experienceYears": 12,
+      "hourlyRate": 60,
+      "bio": "Award-winning designer specializing in luxury residential and commercial spaces.",
+      "specialties": ["Elegant", "Luxury", "Commercial"],
+      "contact": {
+        "email": "marcus@homestyler.com",
+        "phone": "+1234567891"
+      }
+    },
+    {
+      "id": "des003",
+      "name": "Isabella Martinez",
+      "photoUrl": "https://images.pexels.com/photos/8681884/pexels-photo-8681884.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "experienceYears": 6,
+      "hourlyRate": 40,
+      "bio": "Creative designer with expertise in Scandinavian and industrial design aesthetics.",
+      "specialties": ["Scandinavian", "Industrial", "Eclectic"],
+      "contact": {
+        "email": "isabella@homestyler.com",
+        "phone": "+1234567892"
+      }
+    }
+  ]
+}

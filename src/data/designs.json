@@ -1,0 +1,64 @@
+{
+  "designs": [
+    {
+      "id": "d001",
+      "name": "Modern Living Room",
+      "roomType": "Living Room",
+      "style": "Contemporary",
+      "cost": 1500.0,
+      "imageUrl": "src/assets/banner2.jpeg",
+      "description": "Sleek, minimalistic design with neutral colors and clean lines.",
+      "designerId": "des001"
+    },
+    {
+      "id": "d002",
+      "name": "Elegant Kitchen",
+      "roomType": "Kitchen",
+      "style": "Elegant",
+      "cost": 2200.0,
+      "imageUrl": "https://images.pexels.com/photos/7587482/pexels-photo-7587482.jpeg",
+      "description": "Sophisticated kitchen with marble countertops and custom cabinetry.",
+      "designerId": "des002"
+    },
+    {
+      "id": "d003",
+      "name": "Cozy Bedroom",
+      "roomType": "Bedroom",
+      "style": "Contemporary",
+      "cost": 1200.0,
+      "imageUrl": "https://images.pexels.com/photos/3718505/pexels-photo-3718505.jpeg",
+      "description": "Warm and inviting bedroom with soft textures and ambient lighting.",
+      "designerId": "des001"
+    },
+    {
+      "id": "d004",
+      "name": "Luxury Bathroom",
+      "roomType": "Bathroom",
+      "style": "Elegant",
+      "cost": 1800.0,
+      "imageUrl": "https://images.pexels.com/photos/342800/pexels-photo-342800.jpeg",
+      "description": "Spa-like bathroom with premium fixtures and natural stone.",
+      "designerId": "des003"
+    },
+    {
+      "id": "d005",
+      "name": "Industrial Dining Room",
+      "roomType": "Dining Room",
+      "style": "Industrial",
+      "cost": 1600.0,
+      "imageUrl": "https://images.pexels.com/photos/3139124/pexels-photo-3139124.jpeg",
+      "description": "Bold industrial design with exposed brick and metal accents.",
+      "designerId": "des002"
+    },
+    {
+      "id": "d006",
+      "name": "Scandinavian Office",
+      "roomType": "Office",
+      "style": "Scandinavian",
+      "cost": 1000.0,
+      "imageUrl": "https://images.pexels.com/photos/6969867/pexels-photo-6969867.jpeg",
+      "description": "Clean, functional workspace with natural wood and white tones.",
+      "designerId": "des003"
+    }
+  ]
+}

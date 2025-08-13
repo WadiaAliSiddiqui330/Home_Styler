@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "category": "Furniture",
+      "subCategory": "Sofas",
+      "name": "Luxury Leather Sofa",
+      "price": 799.99,
+      "imageUrl": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
+      "rating": 4.5,
+      "description": "Premium Italian leather sofa with exceptional comfort and durability.",
+      "reviews": [
+        {
+          "user": "John Doe",
+          "comment": "Very comfortable and stylish! Perfect for our living room.",
+          "rating": 5
+        },
+        {
+          "user": "Sarah Johnson",
+          "comment": "Great quality leather, worth the investment.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "category": "Lighting",
+      "subCategory": "Ceiling",
+      "name": "Modern Pendant Light",
+      "price": 149.99,
+      "imageUrl": "https://media.istockphoto.com/id/642563904/photo/modern-ceiling-lights.jpg?b=1&s=612x612&w=0&k=20&c=4qLQsclc8_x0kUUXJO-rwkpgZrRYU_KugIUpiu4xqR4=",
+      "rating": 4.3,
+      "description": "Sleek pendant light with adjustable height and warm LED lighting.",
+      "reviews": [
+        {
+          "user": "Mike Wilson",
+          "comment": "Perfect lighting for our dining area.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "category": "Decor",
+      "subCategory": "Rugs",
+      "name": "Persian Area Rug",
+      "price": 299.99,
+      "imageUrl": "https://media.istockphoto.com/id/1152343454/photo/modern-scandinavian-living-room-interior-3d-render.jpg?b=1&s=612x612&w=0&k=20&c=WocKplrHbOMVhRvkzqrmCnEgu7JAU8Idgb5cMQsa84k=",
+      "rating": 4.7,
+      "description": "Handwoven Persian-style rug with intricate patterns and rich colors.",
+      "reviews": [
+        {
+          "user": "Emily Davis",
+          "comment": "Beautiful rug that ties the whole room together!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "category": "Kitchen",
+      "subCategory": "Cabinets",
+      "name": "Oak Kitchen Cabinets",
+      "price": 1299.99,
+      "imageUrl": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg",
+      "rating": 4.6,
+      "description": "Solid oak kitchen cabinets with soft-close doors and drawers.",
+      "reviews": [
+        {
+          "user": "Robert Brown",
+          "comment": "Excellent craftsmanship and beautiful wood grain.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "p005",
+      "category": "Bathroom",
+      "subCategory": "Vanities",
+      "name": "Marble Bathroom Vanity",
+      "price": 899.99,
+      "imageUrl": "https://images.pexels.com/photos/3316926/pexels-photo-3316926.jpeg",
+      "rating": 4.4,
+      "description": "Elegant marble-top vanity with ample storage and modern design.",
+      "reviews": [
+        {
+          "user": "Lisa Anderson",
+          "comment": "Transforms our bathroom into a spa-like retreat.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "p006",
+      "category": "Furniture",
+      "subCategory": "Chairs",
+      "name": "Ergonomic Office Chair",
+      "price": 399.99,
+      "imageUrl": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg",
+      "rating": 4.2,
+      "description": "Professional office chair with lumbar support and adjustable features.",
+      "reviews": [
+        {
+          "user": "David Lee",
+          "comment": "Great support for long work days.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}

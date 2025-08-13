@@ -1,0 +1,20 @@
+{
+  "contact": {
+    "phone": "+1 (555) 123-4567",
+    "email": "contact@homestyler.com",
+    "address": "123 Design Street, Creative City, CC 12345",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "gps": {
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    }
+  }
+}

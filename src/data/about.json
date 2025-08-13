@@ -1,0 +1,26 @@
+{
+  "about": {
+    "mission": "To provide innovative and stylish home interior inspirations that transform living spaces into beautiful, functional environments.",
+    "vision": "To be the leading platform connecting homeowners with exceptional interior design solutions and professional designers.",
+    "team": [
+      {
+        "name": "Mujtaba Baloch",
+        "role": "Project Lead & Founder",
+        "photoUrl": "/placeholder.svg?height=200&width=200",
+        "bio": "Passionate about web design and user experience with over 10 years in the industry."
+      },
+      {
+        "name": "Sarah Thompson",
+        "role": "Lead Designer",
+        "photoUrl": "/placeholder.svg?height=200&width=200",
+        "bio": "Creative director with expertise in interior design trends and user interface design."
+      },
+      {
+        "name": "Alex Rodriguez",
+        "role": "Technical Director",
+        "photoUrl": "/placeholder.svg?height=200&width=200",
+        "bio": "Full-stack developer focused on creating seamless user experiences and robust applications."
+      }
+    ]
+  }
+}
