@@ -2,6 +2,7 @@
   "name": "homestyler-interior-design",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://WadiaAliSiddiqui330.github.io/Home_Styler/",
   "type": "module",
   "scripts": {
     "dev": "vite",
